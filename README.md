@@ -1,2 +1,2 @@
 # Shi
-🥒 Shi is a tool made to scan SSH servers
+🥒 Shi is a tool made to enumerate random openned SSH servers
